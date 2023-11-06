@@ -27,8 +27,8 @@ Save and execute the program.
 ```
 ## Program:
 ```
-DEVELOPED BY : R.HEMAPRIYA
-REGISTER NO : 212221230036
+DEVELOPED BY : Vijayalakshmi Punyala
+REGISTER NO : 212221040134
 ```
 ```
 
